@@ -8,7 +8,6 @@
 
 Link to db image files: https://drive.google.com/drive/folders/1EXlgII9BrqfkYYuDljkOHK8dXKCDldb6?usp=sharing
 
-(add images of the final thing here)
 
 VibeCheck is an advanced multimodal machine learning application that revolutionizes restaurant discovery by prioritizing **ambience and aesthetic experience** over traditional search parameters like cuisine type, price range, or star ratings. By leveraging state-of-the-art deep learning models for cross-modal understanding, VibeCheck enables users to find dining establishments that match their desired atmosphere, whether expressed through natural language descriptions or reference photographs.
 
@@ -40,7 +39,7 @@ The system addresses a fundamental gap in current restaurant recommendation syst
 - **HDBSCAN (Hierarchical Density-Based Spatial Clustering)**: Density-based clustering algorithm for discovering natural groupings in data
 
 #### Application Framework
-(add frontend framework)
+
 - **Poetry**: Modern Python dependency management and packaging system
 - **Python 3.8+**: Core programming language and runtime environment
 
